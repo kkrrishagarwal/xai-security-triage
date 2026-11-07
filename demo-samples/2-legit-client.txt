@@ -1,0 +1,11 @@
+From: Priya Shah <priya@acme-corp.com>
+Subject: Invoice INV-2291 for October consulting
+
+Hi Krish,
+
+As discussed on Tuesday's call, attached is invoice INV-2291 for the October consulting work. Payment is due in 30 days to the usual account.
+
+You can also view it here: https://acme-corp.com/invoices/INV-2291
+
+Thanks,
+Priya
