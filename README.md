@@ -3,7 +3,7 @@
 Explainable, human-checked phishing triage in your team chat, built as a
 single [Switch](https://github.com/sandbox-quantum/switch) template.
 
-**Demo video:** _add your YouTube/Loom link here_
+**Demo video:** https://drive.google.com/file/d/1v0lTcOvdJZm-QKDjLVUCuM_Fnn3H3q59/view?usp=sharing
 
 ## The problem
 
